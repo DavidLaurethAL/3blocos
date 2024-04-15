@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; 
+}
+.block {
+    width: 100px;
+    height: 100px;
+    margin: 10px; 
+} 
+.Laranja {
+    background-color: orange;
+} 
+.Azul {
+    background-color: blue;
+} 
+.AzulEscuro {
+    background-color: blue;
+}
